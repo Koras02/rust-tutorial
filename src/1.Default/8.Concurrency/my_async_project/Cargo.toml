@@ -1,0 +1,7 @@
+[package]
+name = "my_async_project"
+version = "0.1.0"
+edition = "2021"  # 또는 "2018"
+
+[dependencies]
+async-std = "1.10.0"  # 최신 버전으로 설정
