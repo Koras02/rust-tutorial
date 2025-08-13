@@ -1,8 +1,6 @@
-[package]
-name = "rust_blog"
-version = "0.1.0"
-edition = "2021"
+[workspace]
+members = [
+    "my_macro",
+    "main_app"
+]
 
-[dependencies]
-tokio = { version= "1", features = ["full"] } 
- 
