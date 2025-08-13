@@ -2,5 +2,5 @@
 members = [
     "my_macro",
     "main_app"
-]
+, "my_project"]
 
